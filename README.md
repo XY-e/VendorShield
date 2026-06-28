@@ -121,8 +121,8 @@ is structured (`scraper/` folder already scaffolded) to drop these in next.
 Experience the full walkthrough of the Vendor Risk Intelligence Platform:
 ### - Presentation Deck (Canva)
 Open Pitch Deck : https://canva.link/t7u3woy9tbokdtp
-Project overview, architecture, and use case explanation
+( Project overview, architecture, and use case explanation)
 
 ### - Product Demo (YouTube)
 Watch Live Demo : https://youtu.be/n60LTNhuUGU
-Full system walkthrough with risk scoring and dashboard features
+(Full system walkthrough with risk scoring and dashboard features)
