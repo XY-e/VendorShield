@@ -1,4 +1,4 @@
-# Vendor Risk Intelligence Platform
+# VendorShield : AI Powered Vendor Risk Intelligence System
 
 Full-stack vendor/third-party risk scoring app. Backend: FastAPI + SQLite/SQLAlchemy.
 Frontend: React + Tailwind + Recharts. Currently runs entirely on **mock data** so you
@@ -116,3 +116,12 @@ frontend/
 ## Not yet implemented
 JWT auth/roles, email alerts, OCR upload, speech assistant, Docker/CI. The codebase
 is structured (`scraper/` folder already scaffolded) to drop these in next.
+
+## Demo Links
+Experience the full walkthrough of the Vendor Risk Intelligence Platform:
+- Presentation Deck (Canva)
+Open Pitch Deck : https://canva.link/t7u3woy9tbokdtp
+Project overview, architecture, and use case explanation
+- Product Demo (YouTube)
+Watch Live Demo : https://youtu.be/n60LTNhuUGU
+Full system walkthrough with risk scoring and dashboard features
